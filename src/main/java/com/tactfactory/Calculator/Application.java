@@ -19,7 +19,7 @@ public class Application {
 		System.out.println("add : "+add.getValue());
 		add.make(3);
 		System.out.println("add : "+add.getValue());
-	int cpt = 1/0;
+	int err = 1/0;
 	}
 
 }
